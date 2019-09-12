@@ -1,0 +1,33 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin:0 ;
+    padding: 0 ;
+    font-size:140%;
+}
+.navigation {
+    border: 1px solid rgb(86, 168, 18);
+    display: flex;
+    margin: 0 ;
+    padding: 0 ;
+    justify-content :center;
+    background-color: black;
+}
+
+.navigation li {
+    flex-direction: row;
+    list-style:none;
+    margin:10px;
+    padding-right:30px;
+    padding-left:30px ;
+    color: white;   
+}
+
+.first-title {
+    font-size:99%
+    flex-direction: center;
+}
+
+.yee {
+    width:
+    length:
+    
